@@ -1,0 +1,41 @@
+.image-add{
+    background-image: url(images/donate1.png);
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 40px;
+    padding-bottom: 500px;
+}
+
+
+h1{
+    text-align: center;
+    color: deeppink;
+    padding-top: 10%;
+    font-size: 60px;
+}
+h2{
+    text-align: center;
+    color: deeppink;
+    padding-top: 1%;
+    font-size: 60px;
+}
+p{
+    text-align: center;
+     color: blanchedalmond;
+    padding-bottom: 20px; 
+    font-size: 15px;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+div{
+    text-align: center;
+}
+
+.section-2 h1{
+    color: black;
+}
