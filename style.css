@@ -13,13 +13,13 @@ h1{
     padding-top: 10%;
     font-size: 60px;
 }
-h2{
+.h2{
     text-align: center;
     color: deeppink;
     padding-top: 1%;
     font-size: 60px;
 }
-p{
+.p{
     text-align: center;
      color: blanchedalmond;
     padding-bottom: 20px; 
@@ -38,4 +38,23 @@ div{
 
 .section-2 h1{
     color: black;
+}
+.section2-h2{
+    font-size: 50px;
+    color: gray;
+}
+
+.description{
+    font-size: 20px;
+    color: gray;
+}
+
+
+.link-button-2{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 5px;
+
 }
