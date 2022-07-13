@@ -5,9 +5,12 @@
     padding-top: 40px;
     padding-bottom: 500px;
 }
+.edit{
+    font-size: 70px;
+}
 
+.h1{
 
-h1{
     text-align: center;
     color: deeppink;
     padding-top: 10%;
@@ -57,4 +60,38 @@ div{
     padding: 10px 40px;
     border-radius: 5px;
 
+}
+.edit3{
+    font-size: 70px;
+}
+
+.modify{
+    padding-bottom: 50px;
+    font-size: 20px;
+    color: light grey;
+}
+
+.flexible-container{
+    display: flex;
+
+}
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 60px;
+    box-shadow: 10px 10px 40px lightslategray;
+    border-left: 10px;
+}
+
+footer{
+    color: tomato;
+    text-align: center;
+    background-color:black;
+    margin: auto;
+}
+.final-edit{
+    padding-top: 150px;
 }
